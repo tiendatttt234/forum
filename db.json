@@ -1,0 +1,188 @@
+{
+  "threads": [
+    {
+      "title": "chửi nhau ở đây",
+      "created": 1698769553299,
+      "userId": 7,
+      "tagIds": [
+        1,
+        2,
+        3
+      ],
+      "views": 23,
+      "id": 6
+    },
+    {
+      "title": "Cách viết tiểu thuyết cho người mới bắt đầu",
+      "created": 1698886118712,
+      "userId": 1,
+      "tagIds": [
+        3
+      ],
+      "views": 6,
+      "id": 7
+    },
+    {
+      "title": "Trải Nghiệm Núi Rừng",
+      "created": 1698886161212,
+      "userId": 1,
+      "tagIds": [
+        3
+      ],
+      "views": 5,
+      "id": 8
+    },
+    {
+      "title": "Những App Viết Truyện Kiếm Tiền Uy Tín",
+      "created": 1698886227005,
+      "userId": 1,
+      "tagIds": [
+        3
+      ],
+      "views": 5,
+      "id": 9
+    },
+    {
+      "title": "danh gia project",
+      "created": 1698888159078,
+      "userId": 10,
+      "tagIds": [
+        3
+      ],
+      "views": 3,
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "threadId": 6,
+      "content": "<p>lói</p>",
+      "id": 9
+    },
+    {
+      "userId": 10,
+      "threadId": 10,
+      "content": "<p>project nay duoc may</p>",
+      "id": 10
+    },
+    {
+      "userId": 11,
+      "threadId": "10",
+      "content": "project nay du pass",
+      "id": 11
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "topic": "Question",
+      "created": 123,
+      "description": "Questions and concerns related to this topic.",
+      "views": 13
+    },
+    {
+      "id": 3,
+      "topic": "Discussion",
+      "created": 232,
+      "description": "Discussions and exchanges of opinions about this topic.",
+      "views": 15
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyen Tien Dat",
+      "dob": "2023-07-10",
+      "account": "datdeptrai",
+      "password": "123456",
+      "phone": "0123456789",
+      "address": "Ha Noi",
+      "gender": 0,
+      "gmail": "datdeptrai@gmail.com",
+      "role": 3,
+      "isBan": false
+    },
+    {
+      "account": "tiendat",
+      "name": "nguyễn tiến đạt",
+      "password": "123",
+      "gmail": "dateptrai@gmai.com",
+      "phone": "0123654789",
+      "country": "india",
+      "address": "berlin",
+      "gender": "male",
+      "dob": "2002-04-23",
+      "id": 7,
+      "isBan": false,
+      "role": 1
+    },
+    {
+      "account": "name",
+      "name": "nonameeee",
+      "password": "12345",
+      "gmail": "name@gmail.com",
+      "phone": "1234567890",
+      "country": "india",
+      "address": "hanoi",
+      "gender": "male",
+      "dob": "2002-01-01",
+      "role": 1,
+      "id": 8,
+      "isBan": false
+    },
+    {
+      "account": "datt",
+      "name": "tiendatt",
+      "password": "123",
+      "gmail": "dat@gmail.com",
+      "phone": "0123654789",
+      "country": "india",
+      "address": "berlin",
+      "gender": "male",
+      "dob": "2000-01-01",
+      "role": 1,
+      "id": 9,
+      "isBan": true
+    },
+    {
+      "account": "dat234",
+      "name": "nguyen dat",
+      "password": "123",
+      "gmail": "dat@gmail.com",
+      "phone": "0123654789",
+      "country": "india",
+      "address": "berlin",
+      "gender": "male",
+      "dob": "2002-10-20",
+      "role": 3,
+      "id": 10
+    },
+    {
+      "account": "tiendattt",
+      "name": "nguyen tien dattt",
+      "password": "123",
+      "gmail": "dat@gmail.com",
+      "phone": "0312546987",
+      "country": "india",
+      "address": "berlin",
+      "gender": "male",
+      "dob": "2002-04-23",
+      "role": "0",
+      "id": 11,
+      "isBan": true
+    }
+  ]
+}

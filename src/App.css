@@ -1,0 +1,29 @@
+.link-unstyled {
+    color: unset;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.tl-context-ctn {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+}
+
+.title {
+    font-size: var(--bs-navbar-brand-font-size);
+}
+
+.img-404 {
+    height: 50vh;
+    object-fit: scale-down;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hor-align {
+    display: flex;
+    align-items: center;
+}
